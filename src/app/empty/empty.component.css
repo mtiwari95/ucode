@@ -1,0 +1,45 @@
+.copyright{
+    position: fixed;
+    width: 100%;
+    height: 24px;
+    bottom: 0px;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #949494;
+    text-align: center;
+    }
+    .spacer {
+        flex: 1 1 auto;
+    }
+    .tweed{
+      font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 33px;
+    color: #798A91;
+    }
+    .logout{
+      font-family: Helvetica Neue;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 33px;  
+      color: #8D5A5A;
+    }
+    .bg-light{
+      background: #FFFFFF;
+    }
+
+    .load-more{
+      width: 110px;
+      height: 27px;
+      background: #2BBAAF;
+      border-radius: 16px;
+        }
+        .container{
+          padding: 5rem 0rem;
+        }      
